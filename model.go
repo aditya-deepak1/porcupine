@@ -75,3 +75,4 @@ const (
 	Ok      CheckResult = "Ok"
 	Illegal CheckResult = "Illegal"
 )
+
